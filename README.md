@@ -3,3 +3,5 @@ This is the landing page for ITEA Excellent-AIopen-source code, open-access publ
 
 
 RegulatoryDatabase - AI Compliance Knowledge Platform [https://github.com/mcdorians/RegualtoryDatabase](https://github.com/mcdorians/RegualtoryDatabase)
+
+[Idea Lab](https://github.com/mcobo-cic/idea-lab) - An AI-assisted workspace for refining software ideas through iterative customer-needs analysis, competitor research and critical review, with practical test plans and MVP build briefs.
