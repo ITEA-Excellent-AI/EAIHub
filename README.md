@@ -1,3 +1,7 @@
+<p align="right">
+<img src="images/Logo_Excellent_AI__rgb.png">
+</p>
+
 # EAIHub
 This is the landing page for ITEA Excellent-AI open-source code, open-access publications, and open data contributions.
 
